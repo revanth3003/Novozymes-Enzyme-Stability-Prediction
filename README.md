@@ -4,3 +4,5 @@ Novozymes finds enzymes in nature and optimizes them for use in industry. In ind
 However, many enzymes are only marginally stable, which limits their performance under harsh application conditions. Instability also decreases the amount of protein that can be produced by the cell. Therefore, the development of efficient computational approaches to predict protein stability carries enormous technical and scientific interest. 
 
 Computational protein stability prediction based on physics principles have made remarkable progress thanks to advanced physics-based methods such as FoldX, Rosetta, and others. Recently, many machine learning methods were proposed to predict the stability impact of mutations on protein based on the pattern of variation in natural sequences and their three dimensional structures. More and more protein structures are being solved thanks to the recent breakthrough of AlphaFold2. However, accurate prediction of protein thermal stability remains a great challenge.
+
+For more info :https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction
